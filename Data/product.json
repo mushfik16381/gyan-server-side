@@ -1,0 +1,68 @@
+[
+    {
+      "id": "01",
+      "name": "MERN Stack Development",
+      "duration": 5,
+      "total_class": 488,
+      "total_fee": 488,
+      "total_project": 488,
+      "title": "Three in one!",
+      "image_url": "https://photos.google.com/search/_tra_/photo/AF1QipMPW389N4T5RsG-RDMsjwnPncMa5RNEkUhASa_P",
+      "details": "Mern stack development is a subject where web design, web development and app development can be mastered together. At present Mern Stack Developers are in high demand in the market place and domestic companies. So enroll in Mern Stack Development course to build skills.In computer software and application development, a full-stack developer is a person who has the skills to manage, project plan, and develop front-end, back-end, and software code. So our course is designed in such a way that after completing the course you can work as a web designer, web developer, app developer, backend developer or even a stack developer.Opt for the Certified Maroon Stack Development Course to build a career with the times."
+    },
+    {
+      "id": "02",
+      "name": "Cyber Security",
+      "duration": 5,
+      "total_class": 488,
+      "total_fee": 488,
+      "total_project": 488,
+      "title": "Learn to be an ethical hacker",
+      "image_url": "https://photos.google.com/search/_tra_/photo/AF1QipNI-Qbu_tC6bJ3y-iOJis0S032Yi5wm0GQRxEZn",
+      "details": "According to a survey, only in 2021, the total loss of various companies due to cyber attacks around the world is about 6 trillion dollars. Another survey shows that during this crisis of Covid-19, the amount of cyber crime has increased by almost 600 percent! From here we can get an idea of ​​the increasing demand for cyber security analysts or cyber engineers to increase cyber security. Ethical hackers are getting smart salaries in keeping with the times. So choose our cyber security course to make a career as a hacker.Our course is designed in such a way that you learn the ins and outs of cyber security from scratch. Even if you are from non-technical background, you can easily do this course if you have interest. From the basics of network scanning to trendy topics like cryptography, you can learn from this course.We are ready to accompany you on your cyber career journey with experienced mentors and modern labs, are you coming?"
+    },
+    {
+      "id": "03",
+      "name": "Digital Marketing",
+      "duration": 5,
+      "total_class": 488,
+      "total_fee": 488,
+      "total_project": 488,
+      "title": "Learn how to build a career on an online platform",
+      "image_url": "https://photos.google.com/search/_tra_/photo/AF1QipNzj1px9b-qLO6Df5LZXpb_JPXxEPm5aJCuLcra",
+      "details": "Digital marketing is the trending topic in the tech dependent world. From daily necessities to cars and houses, most people now turn to the internet to buy anything. According to Google, about 87 percent of people search Amazon or Google before buying anything. So enroll in digital marketing course to get success in business or learn online marketing.To be an efficient digital marketer you need to be well versed in digital platforms. And for that, everything you need to know is in our course. From Basic Keyword Research (Keywords Research) and Competitor Analysis (Competitor Analysis) to SEO (SEO), Social Media Marketing (Social Media Marketing), Affiliate Marketing (Affiliate Marketing) details are all there in our digital marketing course.So our digital marketing course can be your best choice to develop skills in online marketing techniques."
+    },
+    {
+      "id": "04",
+      "name": "Network Technology",
+      "duration": 5,
+      "total_class": 488,
+      "total_fee": 488,
+      "total_project": 488,
+      "title": "Network Technology use of data systems to manage",
+      "image_url": "https://photos.google.com/search/_tra_/photo/AF1QipPjfr8-MZU7tXXpnwVzKxULtarU7brSCDmv8aaV",
+      "details": "Today every company operates under a network. As a result, there is a huge demand for CCNA courses in various sectors including telecommunication sector, banking sector, mobile phone. So if you do Cisco CCNA course, you can build a great career in these jobs.CCNA is primarily a training course for those who are interested in working with computer networks or who want to pursue a career in the networking sector. Working in the networking industry, having a CCNA certification means that one is suitable for any entry-level job in the sector.So enroll in Cisco CCNA course today to open the doors of possibilities in your IT career."
+    },
+    {
+      "id": "05",
+      "name": "3d Animation",
+      "duration": 5,
+      "total_class": 488,
+      "total_fee": 488,
+      "total_project": 488,
+      "title": "Want to build a career as an animator?",
+      "image_url": "https://photos.google.com/search/_tra_/photo/AF1QipOS7fUd7Db7wfhscpnhL63zglmgUMvNIzgSZ581",
+      "details": "3D Animator is a smart profession due to the proliferation of visual media including movies, games, videos. You can enroll in professional 3D animation course to earn good income in this sector. Creative IT is ready for you with skilled mentors, updated modules and best services.3D animation is when an animation is converted into 3D. As a 3D animator, your job is to create 3D animations and graphics for various digital applications, including videos, movies, and games, through software.So, if you know animation work well, you will have more chances to advance in your career. As there is a lot of demand, you can choose international or local market as the field of work in this sector."
+    },
+    {
+      "id": "06",
+      "name": "Blockchain Technology",
+      "duration": 5,
+      "total_class": 488,
+      "total_fee": 488,
+      "total_project": 488,
+      "title": "Trendy course on cloud computing platform",
+      "image_url": "https://photos.google.com/search/_tra_/photo/AF1QipMGcgulCRzlGCYasV_wpdWP8ehrSaTX-IyRRqJt",
+      "details": "Blockchain technology is currently considered as a novel and groundbreaking innovation. It is the most secure and open method of data storage ever invented. Using this method, the necessary information can be stored in different blocks one after the other in the form of a chain. Since its invention, Blockchain has been gaining popularity all over the world as it has no fear of data hacking, real-time settlement capability and multiple applications.As blockchain is a very secure and fast technology, the use of this new technology is increasing day by day in various public and private sectors including banking, commerce, healthcare, insurance, industry.Besides, the course has the opportunity of practical classes. So do not delay and secure your career in this new technology sector by enrolling today."
+    }
+]
