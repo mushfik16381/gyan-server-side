@@ -5,9 +5,14 @@ app.use(cors());
 
 const port = process.env.port || 5000;
 
-const productCollection = require("./Data/product.json")
+const productCollection = require("./Data/product.json");
+
+const productLength = productCollection.length
 
 
+app.get("/", (req, res) => {
+    res.send("Product Found :"+ productLength);
+});
 app.get("/products", (req, res) => {
     res.send(productCollection);
 });
