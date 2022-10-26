@@ -7,11 +7,9 @@ const port = process.env.port || 5000;
 
 const productCollection = require("./Data/product.json");
 
-const productLength = productCollection.length
-
 
 app.get("/", (req, res) => {
-    res.send("Product Found :"+ productLength);
+    res.send(productCollection);
 });
 app.get("/products", (req, res) => {
     res.send(productCollection);
